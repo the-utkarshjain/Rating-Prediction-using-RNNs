@@ -1,0 +1,147 @@
+Dropout = 0.2
+
+Epoch 1 Summary
+Training Loss: 1.7395308017730713
+Validation Loss: 1.396194338798523
+Test Loss: 1.4092425107955933
+
+Epoch 2 Summary
+Training Loss: 1.278091311454773
+Validation Loss: 1.1603797674179077
+Test Loss: 1.1664037704467773
+Epoch 3 Summary
+Training Loss: 1.1756527423858643
+Validation Loss: 1.1420453786849976
+Test Loss: 1.1498079299926758
+
+Epoch 4 Summary
+Training Loss: 1.1029226779937744
+Validation Loss: 1.139198660850525
+Test Loss: 1.150536298751831
+Epoch 5 Summary
+Training Loss: 1.0380576848983765
+Validation Loss: 1.1053636074066162
+Test Loss: 1.1245592832565308
+Epoch 6 Summary
+Training Loss: 0.9736229181289673
+Validation Loss: 1.1069551706314087
+Test Loss: 1.1242791414260864
+Epoch 7 Summary
+Training Loss: 0.9107645750045776
+Validation Loss: 1.1587756872177124
+Test Loss: 1.1822665929794312
+Epoch 8 Summary
+Training Loss: 0.8473206758499146
+Validation Loss: 1.170793056488037
+Test Loss: 1.1983895301818848
+
+Epoch 9 Summary
+Training Loss: 0.7870595455169678
+Validation Loss: 1.1931496858596802
+Test Loss: 1.223214030265808
+
+Epoch 10 Summary
+Training Loss: 0.7318095564842224
+Validation Loss: 1.2235995531082153
+Test Loss: 1.2685546875
+
+=============
+Dropout = 0.4
+=============
+
+Epoch 1 Summary
+Training Loss: 1.7021420001983643
+Validation Loss: 1.249809980392456
+Test Loss: 1.2691580057144165
+
+Epoch 2 Summary
+Training Loss: 1.3251757621765137
+Validation Loss: 1.169456958770752
+Test Loss: 1.187709093093872
+
+Epoch 3 Summary
+Training Loss: 1.2071384191513062
+Validation Loss: 1.1393256187438965
+Test Loss: 1.1581023931503296
+
+Training Loss: 1.1118139028549194
+Validation Loss: 1.1139496564865112
+Test Loss: 1.1355795860290527
+
+Epoch 5 Summary
+Training Loss: 1.028644323348999
+Validation Loss: 1.109987497329712
+Test Loss: 1.1306633949279785
+
+Epoch 6 Summary
+Training Loss: 0.9485231041908264
+Validation Loss: 1.1005785465240479
+Test Loss: 1.124995470046997
+
+Epoch 7 Summary
+Training Loss: 0.8730248808860779
+Validation Loss: 1.1175521612167358
+Test Loss: 1.1443021297454834
+
+Epoch 8 Summary
+Training Loss: 0.803228497505188
+Validation Loss: 1.1498583555221558
+Test Loss: 1.1720519065856934
+
+Epoch 9 Summary
+Training Loss: 0.7426010370254517
+Validation Loss: 1.2091408967971802
+Test Loss: 1.2252187728881836
+
+==========
+Dropout = 0.6
+==========
+Epoch 1 Summary
+Training Loss: 1.9680137634277344
+Validation Loss: 1.3882640600204468
+Test Loss: 1.4040980339050293
+
+Epoch 2 Summary
+Training Loss: 1.4359958171844482
+Validation Loss: 1.1999341249465942
+Test Loss: 1.2115027904510498
+
+Epoch 3 Summary
+Training Loss: 1.250450849533081
+Validation Loss: 1.151485800743103
+Test Loss: 1.1601641178131104
+
+Epoch 4 Summary
+Training Loss: 1.1425702571868896
+Validation Loss: 1.100021243095398
+Test Loss: 1.1171084642410278
+
+Epoch 5 Summary
+Training Loss: 1.0555126667022705
+Validation Loss: 1.0937304496765137
+Test Loss: 1.1051474809646606
+
+Epoch 6 Summary
+Training Loss: 0.9808752536773682
+Validation Loss: 1.1126071214675903
+Test Loss: 1.1202484369277954
+
+Epoch 7 Summary
+Training Loss: 0.9081364274024963
+Validation Loss: 1.118383765220642
+Test Loss: 1.1282286643981934
+
+Epoch 8 Summary
+Training Loss: 0.8451257944107056
+Validation Loss: 1.1891874074935913
+Test Loss: 1.1987721920013428
+
+Epoch 9 Summary
+Training Loss: 0.7869219779968262
+Validation Loss: 1.2034400701522827
+Test Loss: 1.2163329124450684
+
+Epoch 10 Summary
+Training Loss: 0.7327459454536438
+Validation Loss: 1.2211302518844604
+Test Loss: 1.233305811882019
