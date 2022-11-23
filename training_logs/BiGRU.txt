@@ -1,0 +1,5 @@
+Hidden Size = 256
+Architecture: BiGRU -> Linear (2*hidden, hidden) -> Relu -> Linear (hidden,1)
+
+Optimal Epochs: 2
+Test MSE: 1.106

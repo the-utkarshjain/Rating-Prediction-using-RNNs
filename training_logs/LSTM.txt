@@ -1,0 +1,156 @@
+Hidden Size = 256
+Architecture: UniLSTM -> Linear (hidden, hidden/2) -> Relu -> Linear (hidden/2,1)
+
+Optimal Epochs: 2
+Test MSE: 1.1106
+
+Epoch : 1/10, i: 244/2446, Training Loss: 2.8056352138519287
+Epoch : 1/10, i: 488/2446, Training Loss: 1.768242359161377
+Epoch : 1/10, i: 732/2446, Training Loss: 1.5090004205703735
+Epoch : 1/10, i: 976/2446, Training Loss: 1.3660022020339966
+Epoch : 1/10, i: 1220/2446, Training Loss: 1.3121775388717651
+Epoch : 1/10, i: 1464/2446, Training Loss: 1.28831148147583
+Epoch : 1/10, i: 1708/2446, Training Loss: 1.251430630683899
+Epoch : 1/10, i: 1952/2446, Training Loss: 1.2287451028823853
+Epoch : 1/10, i: 2196/2446, Training Loss: 1.1871510744094849
+Epoch : 1/10, i: 2440/2446, Training Loss: 1.166727066040039
+==============================
+Epoch 1 Summary
+Training Loss: 1.4877877235412598
+Validation Loss: 1.1819641590118408
+==============================
+Epoch : 2/10, i: 244/2446, Training Loss: 1.1189104318618774
+Epoch : 2/10, i: 488/2446, Training Loss: 1.0574989318847656
+Epoch : 2/10, i: 732/2446, Training Loss: 1.081725001335144
+Epoch : 2/10, i: 976/2446, Training Loss: 1.0412999391555786
+Epoch : 2/10, i: 1220/2446, Training Loss: 1.0252785682678223
+Epoch : 2/10, i: 1464/2446, Training Loss: 1.0398083925247192
+Epoch : 2/10, i: 1708/2446, Training Loss: 1.0197631120681763
+Epoch : 2/10, i: 1952/2446, Training Loss: 1.0154731273651123
+Epoch : 2/10, i: 2196/2446, Training Loss: 0.9724518656730652
+Epoch : 2/10, i: 2440/2446, Training Loss: 0.9677794575691223
+==============================
+Epoch 2 Summary
+Training Loss: 1.0339916944503784
+Validation Loss: 1.1132495403289795
+==============================
+Epoch : 3/10, i: 244/2446, Training Loss: 0.9344263672828674
+Epoch : 3/10, i: 488/2446, Training Loss: 0.8847724795341492
+Epoch : 3/10, i: 732/2446, Training Loss: 0.8970884680747986
+Epoch : 3/10, i: 976/2446, Training Loss: 0.8679258823394775
+Epoch : 3/10, i: 1220/2446, Training Loss: 0.8581613302230835
+Epoch : 3/10, i: 1464/2446, Training Loss: 0.8675188422203064
+Epoch : 3/10, i: 1708/2446, Training Loss: 0.8564630150794983
+Epoch : 3/10, i: 1952/2446, Training Loss: 0.8402977585792542
+Epoch : 3/10, i: 2196/2446, Training Loss: 0.805072546005249
+Epoch : 3/10, i: 2440/2446, Training Loss: 0.7968734502792358
+==============================
+Epoch 3 Summary
+Training Loss: 0.8607695698738098
+Validation Loss: 1.1347272396087646
+==============================
+Epoch : 4/10, i: 244/2446, Training Loss: 0.7713878750801086
+Epoch : 4/10, i: 488/2446, Training Loss: 0.7281606793403625
+Epoch : 4/10, i: 732/2446, Training Loss: 0.7234590649604797
+Epoch : 4/10, i: 976/2446, Training Loss: 0.6930273175239563
+Epoch : 4/10, i: 1220/2446, Training Loss: 0.6921815872192383
+Epoch : 4/10, i: 1464/2446, Training Loss: 0.706264853477478
+Epoch : 4/10, i: 1708/2446, Training Loss: 0.6997381448745728
+Epoch : 4/10, i: 1952/2446, Training Loss: 0.6782996654510498
+Epoch : 4/10, i: 2196/2446, Training Loss: 0.6459398865699768
+Epoch : 4/10, i: 2440/2446, Training Loss: 0.6332844495773315
+==============================
+Epoch 4 Summary
+Training Loss: 0.6970717906951904
+Validation Loss: 1.1941791772842407
+==============================
+Epoch : 5/10, i: 244/2446, Training Loss: 0.6140975952148438
+Epoch : 5/10, i: 488/2446, Training Loss: 0.5816587805747986
+Epoch : 5/10, i: 732/2446, Training Loss: 0.5761086940765381
+Epoch : 5/10, i: 976/2446, Training Loss: 0.5532501935958862
+Epoch : 5/10, i: 1220/2446, Training Loss: 0.5480101704597473
+Epoch : 5/10, i: 1464/2446, Training Loss: 0.5600523948669434
+Epoch : 5/10, i: 1708/2446, Training Loss: 0.5554596781730652
+Epoch : 5/10, i: 1952/2446, Training Loss: 0.5353386402130127
+Epoch : 5/10, i: 2196/2446, Training Loss: 0.5172242522239685
+Epoch : 5/10, i: 2440/2446, Training Loss: 0.5036039352416992
+==============================
+Epoch 5 Summary
+Training Loss: 0.5544299483299255
+Validation Loss: 1.2448729276657104
+==============================
+Epoch : 6/10, i: 244/2446, Training Loss: 0.50560462474823
+Epoch : 6/10, i: 488/2446, Training Loss: 0.47719067335128784
+Epoch : 6/10, i: 732/2446, Training Loss: 0.4687909781932831
+Epoch : 6/10, i: 976/2446, Training Loss: 0.4502634108066559
+Epoch : 6/10, i: 1220/2446, Training Loss: 0.43898898363113403
+Epoch : 6/10, i: 1464/2446, Training Loss: 0.46568405628204346
+Epoch : 6/10, i: 1708/2446, Training Loss: 0.4513363838195801
+Epoch : 6/10, i: 1952/2446, Training Loss: 0.4434662163257599
+Epoch : 6/10, i: 2196/2446, Training Loss: 0.426677405834198
+Epoch : 6/10, i: 2440/2446, Training Loss: 0.4272814691066742
+==============================
+Epoch 6 Summary
+Training Loss: 0.4555623531341553
+Validation Loss: 1.2765752077102661
+==============================
+Epoch : 7/10, i: 244/2446, Training Loss: 0.42591485381126404
+Epoch : 7/10, i: 488/2446, Training Loss: 0.40435779094696045
+Epoch : 7/10, i: 732/2446, Training Loss: 0.39988425374031067
+Epoch : 7/10, i: 976/2446, Training Loss: 0.3837590217590332
+Epoch : 7/10, i: 1220/2446, Training Loss: 0.37262362241744995
+Epoch : 7/10, i: 1464/2446, Training Loss: 0.3848485052585602
+Epoch : 7/10, i: 1708/2446, Training Loss: 0.3825836181640625
+Epoch : 7/10, i: 1952/2446, Training Loss: 0.3905937969684601
+Epoch : 7/10, i: 2196/2446, Training Loss: 0.3573451638221741
+Epoch : 7/10, i: 2440/2446, Training Loss: 0.3762190341949463
+==============================
+Epoch 7 Summary
+Training Loss: 0.38787075877189636
+Validation Loss: 1.3257815837860107
+==============================
+Epoch : 8/10, i: 244/2446, Training Loss: 0.36959153413772583
+Epoch : 8/10, i: 488/2446, Training Loss: 0.35634350776672363
+Epoch : 8/10, i: 732/2446, Training Loss: 0.34182366728782654
+Epoch : 8/10, i: 976/2446, Training Loss: 0.34161314368247986
+Epoch : 8/10, i: 1220/2446, Training Loss: 0.3520187735557556
+Epoch : 8/10, i: 1464/2446, Training Loss: 0.3464289605617523
+Epoch : 8/10, i: 1708/2446, Training Loss: 0.34596481919288635
+Epoch : 8/10, i: 1952/2446, Training Loss: 0.3398694097995758
+Epoch : 8/10, i: 2196/2446, Training Loss: 0.319721519947052
+Epoch : 8/10, i: 2440/2446, Training Loss: 0.32657724618911743
+==============================
+Epoch 8 Summary
+Training Loss: 0.34400585293769836
+Validation Loss: 1.3484054803848267
+==============================
+Epoch : 9/10, i: 244/2446, Training Loss: 0.31721505522727966
+Epoch : 9/10, i: 488/2446, Training Loss: 0.32017460465431213
+Epoch : 9/10, i: 732/2446, Training Loss: 0.3062232732772827
+Epoch : 9/10, i: 976/2446, Training Loss: 0.2886990010738373
+Epoch : 9/10, i: 1220/2446, Training Loss: 0.30750423669815063
+Epoch : 9/10, i: 1464/2446, Training Loss: 0.29950523376464844
+Epoch : 9/10, i: 1708/2446, Training Loss: 0.3076845407485962
+Epoch : 9/10, i: 1952/2446, Training Loss: 0.292967289686203
+Epoch : 9/10, i: 2196/2446, Training Loss: 0.2911278009414673
+Epoch : 9/10, i: 2440/2446, Training Loss: 0.28335896134376526
+==============================
+Epoch 9 Summary
+Training Loss: 0.30145663022994995
+Validation Loss: 1.345595359802246
+==============================
+Epoch : 10/10, i: 244/2446, Training Loss: 0.27891841530799866
+Epoch : 10/10, i: 488/2446, Training Loss: 0.2794923186302185
+Epoch : 10/10, i: 732/2446, Training Loss: 0.263590008020401
+Epoch : 10/10, i: 976/2446, Training Loss: 0.2558995187282562
+Epoch : 10/10, i: 1220/2446, Training Loss: 0.26413917541503906
+Epoch : 10/10, i: 1464/2446, Training Loss: 0.2634212076663971
+Epoch : 10/10, i: 1708/2446, Training Loss: 0.2749362289905548
+Epoch : 10/10, i: 1952/2446, Training Loss: 0.267785906791687
+Epoch : 10/10, i: 2196/2446, Training Loss: 0.26503127813339233
+Epoch : 10/10, i: 2440/2446, Training Loss: 0.24897578358650208
+==============================
+Epoch 10 Summary
+Training Loss: 0.26615703105926514
+Validation Loss: 1.3475133180618286
+==============================
