@@ -1,0 +1,5 @@
+D = 50
+Epoch 10 Summary
+Training Loss: 1.1065889596939087
+Validation Loss: 1.1749763488769531
+Test Loss: 1.1818199157714844

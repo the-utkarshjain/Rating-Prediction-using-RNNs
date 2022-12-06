@@ -1,4 +1,5 @@
 original_data/
+figs/
 clean_data/
 .DS_Store
 .ipynb_checkpoints/
